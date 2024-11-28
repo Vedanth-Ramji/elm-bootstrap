@@ -18,8 +18,7 @@ Twitter Bootstrap is one of the most popular CSS (with some JS) frameworks for b
 
 
 ## Documentation
-* User documentation - Check out the [Docs Site](http://elm-bootstrap.info/). If need/prefer https
-you'll need to go [here](https://elm-bootstrap.surge.sh/).
+* User documentation - Check out the [Docs Site]([http://elm-bootstrap.info/](https://elm-bootstrap.surge.sh/)).
 * API documentation - is up on [Elm Package](http://package.elm-lang.org/packages/rundis/elm-bootstrap/latest).
 * It also helps to read through the relevant [Twitter Bootstrap documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 
